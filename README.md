@@ -77,4 +77,4 @@
 | 69.   | 100 + Computer vision Algorithm Implementation               | https://bit.ly/3rWgrzF              |
 | 70.   | 80 + Computer vision Learning code                           | https://bit.ly/3hKCpkm              |
 | 71.   | Deep learning Treasure                                       | https://bit.ly/359zLQb              |
-| 81.   |Movie Recommendation Based on emotion in Python               |https://www.geeksforgeeks.org/movie-recommendation-based-emotion-python/ |
+| 81.   |Movie  Recommendation Based on emotion in Python               |https://www.geeksforgeeks.org/movie-recommendation-based-emotion-python/ |
